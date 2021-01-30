@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Sahas Punchihewa
+### Hi there 👋✌ I'm Sahas Punchihewa
+
+# Highly motivated and self-learning individual with a passion for mobile and web application development experienced in Java/JavaFX, Python, C#.NET, C, HTML 5, CSS 3, Bootstrap, PHP, MySQL, GIT and some extra skills in video editing (Premier Pro), Graphic Design (Photoshop/Illustrator), VFX (After Effects).
 
 <!--
 **SahasPunchihewa/SahasPunchihewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
