@@ -1,6 +1,5 @@
-<p align="left">
-  <img src="https://media.licdn.com/dms/image/D5603AQGAVB0h8vF3Ug/profile-displayphoto-shrink_200_200/0/1709442238433?e=2147483647&v=beta&t=-e50gcWqvZ6S6f8SE_TeiF9z9Mf8ixYtvqa7p9tJzCM" alt="Profile Pic" width="150"/>
-  <h1 align="right">Sahas Punchihewa</h1>
+<p align="center">
+  <h1 align="center">Sahas Punchihewa</h1>
 </p>
 
 <h3 align='center'>🚀 Fullstack Engineer | UOW | IIT | Sri Lanka</h3>
