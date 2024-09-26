@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="[https://user-images.githubusercontent.com/46250566/93753339-c7398800-fc16-11ea-839e-3c6cb61cfa8d.gif](https://media.licdn.com/dms/image/v2/D5603AQGAVB0h8vF3Ug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709442238433?e=1732752000&v=beta&t=P5BuhffBESDw-oGLFgH-yFLmFIFKzut76puUseKMi0Q)" alt="Profile Pic" width="150"/>
+  <img src="https://user-images.githubusercontent.com/46250566/93753339-c7398800-fc16-11ea-839e-3c6cb61cfa8d.gif](https://media.licdn.com/dms/image/v2/D5603AQGAVB0h8vF3Ug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709442238433?e=1732752000&v=beta&t=P5BuhffBESDw-oGLFgH-yFLmFIFKzut76puUseKMi0Q)" alt="Profile Pic" width="150"/>
   <h1 align="right">Sahas Punchihewa</h1>
 </p>
 
