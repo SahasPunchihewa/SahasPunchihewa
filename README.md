@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="[[https://user-images.githubusercontent.com/46250566/93753339-c7398800-fc16-11ea-839e-3c6cb61cfa8d.gif](https://media.licdn.com/dms/image/v2/D5603AQGAVB0h8vF3Ug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709442238433?e=1732752000&v=beta&t=P5BuhffBESDw-oGLFgH-yFLmFIFKzut76puUseKMi0Q)](https://instagram.fcmb2-2.fna.fbcdn.net/v/t51.29350-15/452888308_415303511541433_203679914155572565_n.heic?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcmb2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=jR3xGJs8BjkQ7kNvgEYjoHW&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYA25W6DCY3Jg7d_ycmP9vNbThiXejHuJshHGzBnst1V9g&oe=66FAD283&_nc_sid=d885a2)](https://instagram.fcmb2-2.fna.fbcdn.net/v/t51.29350-15/452888308_415303511541433_203679914155572565_n.heic?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcmb2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=jR3xGJs8BjkQ7kNvgEYjoHW&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYA25W6DCY3Jg7d_ycmP9vNbThiXejHuJshHGzBnst1V9g&oe=66FAD283&_nc_sid=d885a2)" alt="Profile Pic" width="150"/>
+  <img src="https://media.licdn.com/dms/image/D5603AQGAVB0h8vF3Ug/profile-displayphoto-shrink_200_200/0/1709442238433?e=2147483647&v=beta&t=-e50gcWqvZ6S6f8SE_TeiF9z9Mf8ixYtvqa7p9tJzCM" alt="Profile Pic" width="150"/>
   <h1 align="right">Sahas Punchihewa</h1>
 </p>
 
