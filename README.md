@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Sahas Punchihewa</h1>
+  <h1 align="center" style="font-size: 50px;">Sahas Punchihewa</h1>
 </p>
 
 <h3 align='center'>🚀 Fullstack Engineer | UOW | IIT | Sri Lanka</h3>
