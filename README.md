@@ -111,8 +111,8 @@ I thrive on solving complex problems and continuously improving myself. As a ful
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SahasPunchihewa&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahasPunchihewa&layout=compact&theme=radical" />
-</p>
+</div>
 
