@@ -18,8 +18,8 @@ I thrive on solving complex problems and continuously improving myself. As a ful
 
 <p align="center">
   <!-- Programming Languages -->
-  <p align="center">Languages</p>
-  <p align="center">
+  <p align="left">Languages</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,34 +30,42 @@ I thrive on solving complex problems and continuously improving myself. As a ful
   </p>
 
   <!-- Web Development -->
-  <p align="center">Web Development</p>
-  <p align="center">
+  <p align="left">Web Development</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </p>
 
   <!-- App Development -->
-  <p align="center">App Development</p>
-  <p align="center">
+  <p align="left">App Development</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </p>
 
   <!-- Frameworks & Libraries -->
-  <p align="center">Frameworks And Libraries</p>
-  <p align="center">
+  <p align="left">Frameworks And Libraries</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </p>
+
+  <!-- Frameworks & Libraries -->
+  <p align="left">AI Frameworks</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/LangChain-20232A?style=for-the-badge&logo=langchain&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=langchain&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Autogen-20232A?style=for-the-badge&logo=openai&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 
   <!-- DevOps & Cloud Platforms -->
-  <p align="center">Cloud Platforms and DevOps</p>
-  <p align="center">
+  <p align="left">Cloud Platforms and DevOps</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -67,15 +75,15 @@ I thrive on solving complex problems and continuously improving myself. As a ful
   </p>
 
   <!-- Security & Authentication -->
-  <p align="center">Security</p>
-  <p align="center">
+  <p align="left">Security</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/Keycloak-103060?style=for-the-badge&logo=keycloak&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   </p>
 
   <!-- Data & Visualization -->
-  <p align="center">Databases And Query Languages</p>
-  <p align="center">
+  <p align="left">Databases And Query Languages</p>
+  <p align="left">
     <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
